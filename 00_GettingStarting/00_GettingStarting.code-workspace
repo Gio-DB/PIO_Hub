@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "test Nano 33 IoT",
+			"path": "../test Nano 33 IoT"
+		}
+	],
+	"settings": {}
+}
